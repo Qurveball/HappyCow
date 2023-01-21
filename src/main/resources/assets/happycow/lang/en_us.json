@@ -1,3 +1,6 @@
 {
-  "item.happycow.knife": "Knife"
+  "item.happycow.knife": "Knife",
+
+  "itemGroup.happycowtab": "HappyCow"
+
 }
